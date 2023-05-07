@@ -1,0 +1,14 @@
+ARS - Peso Argentino
+AUD - Dólar Australiano
+BOB - Boliviano
+BTC - Bitcoin
+CAD - Dólar Canadense
+CHF - Franco Suíço
+CLP - Peso Chileno
+CNY - Yuan Chinês
+COP - Peso Colombiano
+ETH - Ethereum
+EUR - Euro
+USD - Dólar Americano
+UYU - Peso Uruguaio
+VEF - Bolívar Venezuelano
